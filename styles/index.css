@@ -1,5 +1,5 @@
 #titre {display: flex; justify-content: center; margin: 3%;}
-#titre > h2 {font-size: 30px; font-family: 'Ghibli Regular';}
+#titre > h2 {font-size: 30px; font-family: 'Ghibli Regular'; text-transform: uppercase; font-weight: bold;}
 
 #carrousel {display: flex; justify-content: center;}
 #carrousel > img {height: 400px; border-radius: 50%;}
